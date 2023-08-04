@@ -2,9 +2,9 @@
 ## Manuscript status
 2023.8.4 submitted to journal
 
-![method]()
+![method](https://github.com/mengyu212/VIFNet_dehazing/blob/master/img/method.jpg)
 ## Performance
-![performance]()
+![performance](https://github.com/mengyu212/VIFNet_dehazing/blob/master/img/performance.jpg)
 
 ## Train and test
 ### dataset
