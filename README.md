@@ -1,6 +1,4 @@
 # VIFNet: An End-to-end Visible-Infrared Fusion Network for Image Dehazing
-## Manuscript status
-2023.8.4 submitted to journal
 
 ![method](https://github.com/mengyu212/VIFNet_dehazing/blob/master/img/method.jpg)
 ## Performance
@@ -22,3 +20,15 @@ cd your/path/to/VIFNet
 python test.py
 ```
 The predicted image will be placed in the /pred_imgs_rgbt folder.
+
+## Citation
+```
+@article{yu2024vifnet,
+  title={VIFNet: An end-to-end visible-infrared fusion network for image dehazing},
+  author={Yu, Meng and Cui, Te and Lu, Haoyang and Yue, Yufeng},
+  journal={Neurocomputing},
+  pages={128105},
+  year={2024},
+  publisher={Elsevier}
+}
+```
