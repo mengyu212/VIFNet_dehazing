@@ -7,7 +7,7 @@
 ## Train and test
 ### dataset
 Airsim-VID--We propose a foggy visible-infrared dataset based on AirSim , a high-fidelity simulation platform for autonomous vehicles, which can provide real-time ground truth and paired images under different degrees of fog conditions. Our dataset comprises 2,310 aligned hazy/clear/infrared image pairs, each corresponding to three different fog concentration coefficients.
-You can download via https://pan.baidu.com/s/1bbNXZrcWy52u3Uy4TUy53Q (code: 7f6z) and modify the path of the dataset in data_utils.py. 
+You can download via https://pan.baidu.com/s/1HYMKXmGMJQ1x6JmBNxaABw (code: egc9) and modify the path of the dataset in data_utils.py. 
 ### training
 ```
 cd your/path/to/VIFNet
